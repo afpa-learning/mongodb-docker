@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "65b83482663890ab7aefd4f2"
+  },
+  "name": "Great Britain",
+  "isoCode": "GB"
+},
+{
+  "_id": {
+    "$oid": "65b83482663890ab7aefd4f3"
+  },
+  "name": "United States",
+  "isoCode": "US"
+},
+{
+  "_id": {
+    "$oid": "65b83482663890ab7aefd4f5"
+  },
+  "name": "France",
+  "isoCode": "FR"
+}]
